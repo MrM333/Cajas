@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.content{
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgba(149, 90, 167, 0.486);
+}
+
+.Box1{
+    margin:auto; /* Para centrar funciona solo cuando esta definido el widht*/
+    border: 5px solid whitesmoke;
+    width: 400px;
+    height: 100px;
+    padding: 50px;
+    background-color: bisque;
+    box-sizing:calc();
+}
+.Box2{
+    margin:auto; /* Para centrar funciona solo cuando esta definido el widht*/
+    border: 5px solid whitesmoke;
+    width: 400px;
+    height: 100px;
+    padding: 50px;
+    background-color: bisque;
+    box-sizing:calc();
+}
+.Box3{
+    margin:auto; /* Para centrar funciona solo cuando esta definido el widht*/
+    border: 5px solid whitesmoke;
+    width: 400px;
+    height: 100px;
+    padding: 50px;
+    background-color: bisque;
+    box-sizing:calc();
+}
